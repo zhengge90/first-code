@@ -1,0 +1,4 @@
+E:\代码\WeCompanySite\测试\bin\测试.dll
+E:\代码\WeCompanySite\测试\bin\测试.pdb
+E:\代码\WeCompanySite\测试\obj\Debug\测试.dll
+E:\代码\WeCompanySite\测试\obj\Debug\测试.pdb

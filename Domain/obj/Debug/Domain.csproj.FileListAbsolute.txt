@@ -1,0 +1,4 @@
+E:\代码\WeCompanySite\Domain\bin\Debug\Domain.dll
+E:\代码\WeCompanySite\Domain\bin\Debug\Domain.pdb
+E:\代码\WeCompanySite\Domain\obj\Debug\Domain.dll
+E:\代码\WeCompanySite\Domain\obj\Debug\Domain.pdb
